@@ -1,35 +1,46 @@
 👨‍💻 Cristiano Santana Costa
-Desenvolvedor Full Stack | Servidor Público - Governo do Estado da Bahia (SSP/BA - DMT) | Sistemas de Informação
+Desenvolvedor Full Stack | Servidor Público - Governo do Estado da Bahia (SSP/BA - DMT) | Estudante de Sistemas de Informação
 
-Olá! Sou o Cristiano Santana Costa, desenvolvedor Full Stack e servidor público atuante na Secretaria de Segurança Pública da Bahia (SSP/BA - Departamento de Modernização Tecnológica - DMT). Sou acadêmico de Sistemas de Informação e apaixonado por tecnologia, inovação e soluções digitais voltadas para o setor público e privado.
+Olá! Me chamo Cristiano Santana Costa e sou um apaixonado por tecnologia, inovação e soluções digitais que geram impacto real tanto no setor público quanto privado. Atualmente, atuo como Desenvolvedor Full Stack e servidor público estadual na Secretaria de Segurança Pública da Bahia, no Departamento de Modernização e Tecnologia (DMT).
 
-Como desenvolvedor Full Stack, atuo no desenvolvimento completo de aplicações, desde o front-end até o back-end, com foco em performance, usabilidade e segurança. Trabalho com diversas tecnologias modernas para entregar soluções escaláveis, acessíveis e eficientes.
+Estou em constante evolução profissional, sempre buscando unir conhecimento acadêmico à prática do desenvolvimento de sistemas robustos, acessíveis e seguros.
 
-🚀 Tech Stack:
+💻 Como desenvolvedor Full Stack, participo de todo o ciclo de vida do desenvolvimento de software, desde a análise de requisitos, arquitetura, construção do back-end, até o front-end responsivo e integrado. Prezo pela qualidade de código, boas práticas de versionamento, usabilidade e pela entrega de soluções escaláveis.
 
-Front-end: React, React Native, JavaScript, TypeScript
+🚀 Tech Stack
+Front-end:
+React • React Native • JavaScript • TypeScript • HTML • CSS • Expo
 
-Back-end: Java, Spring Boot, Node.js
+Back-end:
+Java • Spring Boot • Node.js • Express
 
-Banco de Dados: PostgreSQL, MySQL, Firebase
+Banco de Dados:
+PostgreSQL • MySQL • Firebase (Realtime Database & Firestore)
 
-Outros: Git, GitHub, REST APIs, Expo, Docker
+Ferramentas & DevOps:
+Git • GitHub • RESTful APIs • Docker • VS Code • Postman • Figma
 
-💼 Experiência atual:
+Metodologias:
+Scrum • Kanban • Agile • GitFlow
 
-Desenvolvedor - Governo do Estado da Bahia (SSP/BA - DMT)
+🧠 Interesses e Propósito
+Desenvolver soluções tecnológicas eficientes e intuitivas para o serviço público e privado.
 
-Estagiário de Desenvolvimento - Jyreh Soluções
+Automatizar processos e melhorar a experiência de usuários em ambientes digitais.
 
-🧠 Em constante evolução profissional, buscando sempre melhorar minhas habilidades com boas práticas de desenvolvimento, metodologias ágeis e foco em soluções reais.
+Aprimorar continuamente minhas habilidades técnicas e interpessoais.
 
-📚 Estudante de Sistemas de Informação
-🏛️ Servidor Público Estadual - Bahia
+Contribuir com projetos de código aberto e comunidades de tecnologia.
 
-🔗 Conecte-se comigo: LinkedIn https://www.linkedin.com/in/cristiano-costa-908ba5141/
+🎓 Formação
+Sistemas de Informação
+Universidade Salgado de Oliveira – UNIVERSO
 
+🏛️ Atuação Pública
+Servidor Público - SSP/BA – Departamento de Modernização e Tecnologia (DMT)
+Contribuindo para a modernização de serviços digitais na área de segurança pública, participando de projetos que envolvem desenvolvimento de sistemas internos, automação de processos e análise de dados.
 
-🔗 https://cristianosantanadev.web.app/
-
-
+🌐 Contato e Portfólio
+🔗 LinkedIn
+🔗 Portfólio Web
 📫 E-mail: cristianodougsan@gmail.com
