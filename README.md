@@ -1,5 +1,5 @@
 👨‍💻 Cristiano Santana Costa
-Desenvolvedor Full Stack | Servidor Público - Governo do Estado da Bahia (SSP/BA - DMT) | Estudante de Sistemas de Informação
+Desenvolvedor Full Stack | Servidor Público - Governo do Estado da Bahia (SSP/BA - DMT) 
 
 Olá! Me chamo Cristiano Santana Costa e sou um apaixonado por tecnologia, inovação e soluções digitais que geram impacto real tanto no setor público quanto privado. Atualmente, atuo como Desenvolvedor Full Stack e servidor público estadual na Secretaria de Segurança Pública da Bahia, no Departamento de Modernização e Tecnologia (DMT).
 
