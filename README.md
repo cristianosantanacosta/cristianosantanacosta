@@ -41,6 +41,12 @@ Servidor Público - SSP/BA – Departamento de Modernização e Tecnologia (DMT)
 Contribuindo para a modernização de serviços digitais na área de segurança pública, participando de projetos que envolvem desenvolvimento de sistemas internos, automação de processos e análise de dados.
 
 🌐 Contato e Portfólio
-🔗 LinkedIn
-🔗 Portfólio Web
+
+
+🔗 LinkedIn https://www.linkedin.com/in/cristiano-costa-908ba5141/
+
+
+🔗 Portfólio Web  https://cristianosantanadev.web.app/
+
+
 📫 E-mail: cristianodougsan@gmail.com
