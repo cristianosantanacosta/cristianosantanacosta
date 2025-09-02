@@ -109,6 +109,20 @@ Atuação voltada à modernização de serviços digitais na área de segurança
 
 ---
 
+
+<!-- GitHub Stats (corrigido: username correto) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristianodougsan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cristianosantanacosta&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<!-- Top languages (opcional) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosantanacosta&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<!-- Fallback com shields.io (use se os cards acima falharem) -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/cristianosantanacosta?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/cristianosantanacosta?label=Stars&style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/cristianosantanacosta/SEU_REPO?label=Repo%20size" alt="Repo size" />
 </p>
