@@ -120,9 +120,14 @@ Atuação voltada à modernização de serviços digitais na área de segurança
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosantanacosta&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<!-- Fallback com shields.io (use se os cards acima falharem) -->
+<!-- Badges fallback (funciona com repositórios privados) -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/cristianosantanacosta?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/cristianosantanacosta?label=Stars&style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-size/cristianosantanacosta/SEU_REPO?label=Repo%20size" alt="Repo size" />
+  <a href="https://github.com/cristianosantanacosta" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=flat" alt="GitHub" />
+  </a>
 </p>
+
+<!-- Observação curta -->
+> Nota: seus commits e linguagens ficam privados — para mostrar números completos é preciso self-host (veja abaixo).  
