@@ -130,4 +130,4 @@ Atuação voltada à modernização de serviços digitais na área de segurança
 </p>
 
 <!-- Observação curta -->
-> Nota: seus commits e linguagens ficam privados — para mostrar números completos é preciso self-host (veja abaixo).  
+> Nota: commits privados, esse valores não estão reais.  
